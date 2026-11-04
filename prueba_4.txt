@@ -1,0 +1,5 @@
+func AddOne[x] :=
+    x + 1
+end
+
+exec AddOne[5

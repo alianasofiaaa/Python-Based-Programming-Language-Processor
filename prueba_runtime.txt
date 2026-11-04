@@ -1,0 +1,6 @@
+func Divide[x] :=
+    x / 0
+end
+
+exec Divide[5]
+
